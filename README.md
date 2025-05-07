@@ -54,6 +54,18 @@ Links Úteis
 Documentação Azure Architecture Center:https://docs.microsoft.com/en-us/azure/architecture/ <br>
 Modelo de Diagrama da Arquitetura: https://link-para-o-diagrama/
 
+Dicas extras para deixar seu projeto ainda mais destaque:
+
+Adicione um diagrama da arquitetura (usando Azure Architecture Icons: https://learn.microsoft.com/en-us/azure/architecture/icons/ ou ferramentas como Draw.io): https://app.diagrams.net.
+Inclua um vídeo ou GIF no README mostrando a implantação funcionando.
+Documente os custos estimados da infraestrutura (use a Azure Pricing Calculator: https://azure.microsoft.com/en-us/pricing/calculator/).
+
+A segunda parte é:
+
+Escrever um script de automação para deploy;
+Explicar como conectar o AKS com o Azure Database;
+Criar um template de Terraform para parte da infra;
+
 
 
 
